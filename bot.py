@@ -14,8 +14,7 @@ if os.path.exists('bot_data.db'):
 
 TOKEN = "8769295593:AAGoOIC3NFTanlc2_4oooE-6fwqCkA7wWJ8"
 ADMIN_ID = 7546406264
-CHANNEL_USERNAME = "@kir4_tech"  
-CHANNEL_USERNAME = "@Cloud_nt" 
+CHANNEL_USERNAME = "@kir4_tech"
 DEVELOPER_USERNAME = "@R1yuke"
 
 bot = telebot.TeleBot(TOKEN)
